@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @senthil-prabhu-sudo
+- 👀 I’m interested in inventing new code
+- 🌱 I’m currently learning android studio
+- 💞️ I’m looking to collaborate on google
+- 📫 How to reach me using github
