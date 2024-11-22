@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @senthil-prabhu-sudo
-- 🌱 I’m currently learning android studio
-- 📫 How to reach me using github
