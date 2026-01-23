@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Senthil Prabhu✨<br><br>- 💻 Web development enthusiast exploring modern technologies<br>- 🔐 Passionate about learning cybersecurity<br>- 🛠️ I build small projects to improve my skills<br>- 🎥 I share code and tech content whenever I can
+Hi, I'm Senthil Prabhu✨<br><br>- 💻 Web development enthusiast exploring modern technologies<br>- 🔐 Passionate about learning web development<br>- 🛠️ I build small projects to improve my skills<br>- 🎥 I share code and tech content whenever I can
 
 
 ## 🌐 Socials:
