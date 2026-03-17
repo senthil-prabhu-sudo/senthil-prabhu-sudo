@@ -1,0 +1,12 @@
+{
+  "name": "readme-updater",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Auto-syncs pinned GitHub repos into README.md",
+  "scripts": {
+    "update": "node update-readme.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
