@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,10 +20,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
           fetch-depth: 0
-
-      - name: Pull latest changes before doing anything
-        run: git pull --rebase origin main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -37,10 +39,9 @@ jobs:
         run: node scripts/update-readme.js
 
       - name: Commit and push if README changed
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: auto-sync pinned repos [skip ci]"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-sync pinned repos [skip ci]"
+          file_pattern: README.md
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
