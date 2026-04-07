@@ -120,7 +120,7 @@ const senthil = {
 | [**simple-chess-using-javascript**](https://github.com/senthil-prabhu-sudo/simple-chess-using-javascript) | _No description_ | JavaScript | 1 | 🔵 Maintained |
 | [**smart-attendance**](https://github.com/senthil-prabhu-sudo/smart-attendance) | _No description_ | Python | 1 | 🔵 Maintained |
 | [**Wings-wingwave**](https://github.com/senthil-prabhu-sudo/Wings-wingwave) | Wings-wingwave is my first music player app, developed under the Wings brand. It allows users to browse and play local music files with a simple and intuitive interface. This project marks the beginning of my journey in Android app development and showcases my interest in creating smooth, user-friendly media applications. | — | 1 | 🔵 Maintained |
-| [**realtime-collaboration-whiteboard**](https://github.com/senthil-prabhu-sudo/realtime-collaboration-whiteboard) | _No description_ | TypeScript | 1 | 🔵 Maintained |
+| [**realtime-collaboration-whiteboard**](https://github.com/senthil-prabhu-sudo/realtime-collaboration-whiteboard) | _No description_ | TypeScript | 1 | 🟢 Active |
 
 <!-- PROJECTS:END -->
 
