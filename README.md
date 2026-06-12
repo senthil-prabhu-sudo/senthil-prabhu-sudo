@@ -1,98 +1,263 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Senthil%20Prabhu&fontSize=48&fontColor=e6edf3&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20Web%20Enthusiast%20·%20Tech%20Creator&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0a3e,100:2d1b69&height=200&section=header&text=Senthil%20Prabhu&fontSize=52&fontColor=e8d5ff&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Web%20Architect%20·%20Open%20Source%20Builder&descAlignY=63&descSize=15&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+modern+web+apps+%F0%9F%9A%80;Turning+coffee+into+commits+%E2%98%95;Learning+%26+growing+every+day+%F0%9F%8C1;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Cloud+%E2%80%94+always+learning;Shipping+clean+code+%2C+one+commit+at+a+time+%F0%9F%94%A5;Open+to+collaborations+%26+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+![India](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-blueviolet?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-7c3aed?style=flat-square&logo=checkmarx&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cloud-6d28d9?style=flat-square)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/senthilprabhub)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:senthilprabhub2411@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/senthil-prabhu-sudo)
-[![Profile Views](https://komarev.com/ghpvc/?username=senthil-prabhu-sudo&style=flat-square&color=1f6feb&label=Profile+Views)](https://github.com/senthil-prabhu-sudo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%235B21B6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/senthilprabhub)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-%237C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:senthilprabhub2411@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%234C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/senthil-prabhu-sudo)
+[![Profile Views](https://komarev.com/ghpvc/?username=senthil-prabhu-sudo&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/senthil-prabhu-sudo)
+![Followers](https://img.shields.io/github/followers/senthil-prabhu-sudo?style=flat-square&color=6d28d9&label=Followers&logo=github)
 
 </div>
 
 ---
 
-## 👤 About Me
+## 👤 About
 
-```js
-const senthil = {
-  name    : "Senthil Prabhu",
-  role    : "Full Stack Web Developer",
-  location: "India 🇮🇳",
-  passion : ["Web Dev", "Open Source", "Tech Content"],
-  learning: "React · Node.js · Cloud Deployments",
-  funFact : "I turn ☕ into commits",
-  available: true  // open to collaborations
+```ts
+const senthil: Developer = {
+  name      : "Senthil Prabhu",
+  role      : "Full Stack Web Developer",
+  location  : "India 🇮🇳",
+  stack     : ["React", "Node.js", "Python", "TypeScript", "MySQL", "Firebase"],
+  cloud     : ["Azure", "Vercel", "Firebase Hosting"],
+  design    : ["Figma", "Tailwind CSS", "Bootstrap"],
+  mindset   : "Ship fast. Iterate. Build with purpose.",
+  learning  : ["Advanced React Patterns", "RESTful API Design", "Cloud Architecture"],
+  openTo    : ["Collaborations", "Open Source", "Internships", "Full-time Roles"],
 };
 ```
 
-- 💻 Web development enthusiast exploring modern full-stack technologies
-- 🔐 Passionate about building secure and scalable web architecture
-- 🛠️ I craft small but meaningful projects to sharpen my skills daily
-- 🎥 I share code walkthroughs & tech content whenever inspiration strikes
-- 🌱 Currently deepening knowledge in **React**, **Node.js** & **Cloud**
-- 🤝 Open to collaborations, open-source contributions & opportunities
+- 🧱 Full stack developer with a focus on building secure, scalable, and maintainable web systems
+- 🔐 Passionate about clean architecture, API design, and production-grade code quality
+- 🛠️ Consistently shipping projects — from real-time collaboration tools to smart attendance systems
+- 🎥 Occasionally creating dev content and code walkthroughs to document my learning journey
+- 🌱 Deepening expertise across **React**, **Node.js**, **Cloud Deployments**, and **UI/UX principles**
+- 🤝 Open to: Internships · Open Source Contributions · Freelance · Full-time Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🔤 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp&theme=dark" />
+</p>
+
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,figma&theme=dark" />
+</p>
 
-### ⚙️ Backend & Languages
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark" />
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ Cloud & Deployment
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ☁️ Cloud, DevOps & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,vercel,git,github,vscode,linux&theme=dark" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<details>
+<summary><b>⚡ Realtime Collaboration Whiteboard</b></summary>
+<br/>
+
+A real-time multi-user collaborative whiteboard enabling teams to draw, annotate, and ideate simultaneously — built with TypeScript and WebSocket-based event sync.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | TypeScript · WebSockets · Canvas API · Node.js |
+| **Scale** | Multi-user real-time sessions |
+| **Performance** | Low-latency event-driven architecture |
+| **Security** | Session-scoped collaboration rooms |
+| **Impact** | Production-ready collaborative tooling |
+| **Repository** | [realtime-collaboration-whiteboard](https://github.com/senthil-prabhu-sudo/realtime-collaboration-whiteboard) |
+
+Engineered from scratch to explore real-time browser communication patterns, this project implements a full canvas drawing engine with synchronized multi-client state management — demonstrating strong proficiency in event-driven systems and TypeScript.
+
+</details>
+
+---
+
+<details>
+<summary><b>🎓 Smart Attendance System</b></summary>
+<br/>
+
+An intelligent Python-based attendance system leveraging computer vision to automate student/employee presence tracking — eliminating manual entry entirely.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · OpenCV · Face Recognition · MySQL |
+| **Scale** | Institution-level deployment |
+| **Performance** | Automated real-time face detection |
+| **Security** | Biometric-based identity verification |
+| **Impact** | Full elimination of manual attendance workflows |
+| **Repository** | [smart-attendance](https://github.com/senthil-prabhu-sudo/smart-attendance) |
+
+Demonstrates applied machine learning in a production-relevant context, combining computer vision pipelines with persistent database storage for real operational value.
+
+</details>
+
+---
+
+<details>
+<summary><b>♟️ Chess Engine (JavaScript)</b></summary>
+<br/>
+
+A fully functional chess game built purely in vanilla JavaScript — featuring legal move validation, turn management, and an interactive board rendered via DOM manipulation.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | JavaScript · HTML5 · CSS3 |
+| **Scale** | Single-page client-side application |
+| **Performance** | Zero-dependency, optimized DOM rendering |
+| **Security** | Input-validated move logic |
+| **Impact** | Demonstrates deep JavaScript fundamentals |
+| **Repository** | [simple-chess-using-javascript](https://github.com/senthil-prabhu-sudo/simple-chess-using-javascript) |
+
+A deliberate deep-dive into algorithmic problem solving in JavaScript without any external libraries — showcasing strong foundation in game logic, state machines, and DOM engineering.
+
+</details>
+
+---
+
+<details>
+<summary><b>🎵 Wings Wingwave — Music Player App</b></summary>
+<br/>
+
+A local music player Android application developed under the Wings brand — the first entry in a personal product journey into mobile app development.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Android · Java · MediaPlayer API |
+| **Scale** | Mobile application (local library) |
+| **Performance** | Smooth playback with intuitive UI |
+| **Security** | Local filesystem access only |
+| **Impact** | First shipped mobile product |
+| **Repository** | [Wings-wingwave](https://github.com/senthil-prabhu-sudo/Wings-wingwave) |
+
+Marks the beginning of native Android development exploration — built with a focus on user experience, media handling, and creating polished consumer-facing interfaces.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔐 Animated Login Page</b></summary>
+<br/>
+
+A premium animated authentication UI — demonstrating advanced CSS animations, transitions, and modern frontend design patterns with production-level polish.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | HTML5 · CSS3 · JavaScript |
+| **Scale** | Frontend component / UI template |
+| **Performance** | GPU-accelerated CSS animations |
+| **Security** | Client-side form validation patterns |
+| **Impact** | Reusable authentication UI template |
+| **Repository** | [animated-login-page](https://github.com/senthil-prabhu-sudo/animated-login-page) |
+
+Demonstrates strong command of CSS animation engineering and visual design sensibility — built as a reusable, polished component suitable for production integration.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer** — Independent / Open Source
+*2023 — Present*
+
+Self-directed software engineering practice focused on building end-to-end web systems across the full technology stack. Working across frontend, backend, database, and cloud layers.
+
+- Architected and shipped multiple full-stack projects independently from ideation to deployment
+- Built real-time systems using WebSocket-based event architectures in TypeScript
+- Applied computer vision pipelines using Python and OpenCV in production-relevant tooling
+- Deployed applications across Azure, Vercel, and Firebase Hosting with CI/CD practices
+- Contributed to open source repositories and maintained clean public codebases on GitHub
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=senthil-prabhu-sudo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
+| 🏅 Recognition | 📋 Details |
+|:---|:---|
+| **GitHub Stars Across Projects** | 5+ stars across pinned repositories |
+| **Multi-Domain Builder** | Shipped projects across Web, Mobile, CV, and Real-time systems |
+| **Real-time Systems** | Built production-grade WebSocket collaboration tooling |
+| **Computer Vision** | Applied OpenCV + Face Recognition in a working attendance pipeline |
+| **Open Source Presence** | Active public GitHub with consistent contribution activity |
+| **Cross-Platform Delivery** | Deployed across 3 cloud platforms: Azure · Vercel · Firebase |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+### Microsoft / Azure
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Programming & Development
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Dev-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Platforms
+![Coursera](https://img.shields.io/badge/Coursera-Certified-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Digital%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=senthil-prabhu-sudo&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthil-prabhu-sudo&theme=tokyonight&hide_border=true&layout=compact" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthil-prabhu-sudo&theme=midnight-purple&hide_border=true&layout=compact" height="175"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=senthil-prabhu-sudo&theme=tokyonight&hide_border=true" height="175"/>
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=senthil-prabhu-sudo&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=senthil-prabhu-sudo&theme=midnight-purple&hide_border=true" height="175"/>
 
 </div>
 
@@ -102,54 +267,68 @@ const senthil = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=senthil-prabhu-sudo&theme=tokyonight&no-frame=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=senthil-prabhu-sudo&theme=discord&no-frame=true&margin-w=6&column=7)
 
 </div>
 
 ---
 
-## 🚀 Projects
-
-> ⚡ Auto-synced daily from my pinned GitHub repositories
-
-<!-- PROJECTS:START -->
-
-| 🔨 Project | 📝 Description | 🛠️ Stack | ⭐ Stars | 📌 Status |
-|:---|:---|:---|:---:|:---:|
-| [**animated-login-page**](https://github.com/senthil-prabhu-sudo/animated-login-page) | _No description_ | HTML | 1 | 🔵 Maintained |
-| [**simple-chess-using-javascript**](https://github.com/senthil-prabhu-sudo/simple-chess-using-javascript) | _No description_ | JavaScript | 1 | 🔵 Maintained |
-| [**smart-attendance**](https://github.com/senthil-prabhu-sudo/smart-attendance) | _No description_ | Python | 1 | 🔵 Maintained |
-| [**Wings-wingwave**](https://github.com/senthil-prabhu-sudo/Wings-wingwave) | Wings-wingwave is my first music player app, developed under the Wings brand. It allows users to browse and play local music files with a simple and intuitive interface. This project marks the beginning of my journey in Android app development and showcases my interest in creating smooth, user-friendly media applications. | — | 1 | 🔵 Maintained |
-| [**realtime-collaboration-whiteboard**](https://github.com/senthil-prabhu-sudo/realtime-collaboration-whiteboard) | _No description_ | TypeScript | 1 | 🔵 Maintained |
-
-<!-- PROJECTS:END -->
-
----
-
-## 📚 Currently Learning
-
-```
-▸  Advanced React — Hooks, Context, Suspense
-▸  RESTful API design & Node.js best practices
-▸  Cloud deployment on Azure & Firebase Hosting
-▸  UI/UX principles and prototyping with Figma
-▸  Git branching strategies and team workflows
-▸  Database optimization and indexing in MySQL
-```
-
----
-
-## 💬 Dev Quote
+## 📈 Contribution Activity
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=senthil-prabhu-sudo&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=c4b5fd)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senthil-prabhu-sudo/senthil-prabhu-sudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senthil-prabhu-sudo/senthil-prabhu-sudo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/senthil-prabhu-sudo/senthil-prabhu-sudo/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced React: Hooks, Context API, Suspense, Server Components
+  - RESTful & GraphQL API design with Node.js
+  - Cloud architecture: Azure Functions, Firebase, Vercel Edge
+  - UI/UX fundamentals and design systems in Figma
+  - Git workflows: branching strategies, code review, CI/CD
+
+building:
+  - Full-stack production applications with React + Node.js
+  - Real-time features using WebSockets and event-driven patterns
+  - Scalable REST APIs with MySQL and Firebase backends
+  - Portfolio-grade projects with cloud deployment
+
+exploring:
+  - TypeScript advanced patterns and strict typing
+  - Database optimization, indexing, and query performance
+  - Open source contribution workflows
+  - Developer tooling and productivity systems
+
+open_to:
+  - Internship opportunities (Frontend · Backend · Full Stack)
+  - Open source collaborations
+  - Freelance web development projects
+  - Tech content creation partnerships
+```
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
@@ -157,10 +336,14 @@ const senthil = {
 |:---:|:---:|:---:|
 | [senthilprabhub](https://linkedin.com/in/senthilprabhub) | [senthilprabhub2411@gmail.com](mailto:senthilprabhub2411@gmail.com) | [@senthil-prabhu-sudo](https://github.com/senthil-prabhu-sudo) |
 
-<br/>
+</div>
 
-*"Every expert was once a beginner. One commit at a time."*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+<div align="center">
+
+*"The best code is the code that ships. The best developer is the one who never stops learning."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a3e,100:0d0d1a&height=120&section=footer" width="100%"/>
 
 </div>
