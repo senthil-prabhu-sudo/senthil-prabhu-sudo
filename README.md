@@ -221,16 +221,15 @@ Self-directed software engineering practice focused on building end-to-end web s
 
 ## 📜 Certifications
 
-### Microsoft / Azure
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<div align="center">
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Dev-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java%20%2F%20J2EE-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Platforms
-![Coursera](https://img.shields.io/badge/Coursera-Certified-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Digital%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL101](https://img.shields.io/badge/SQL101-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
@@ -241,7 +240,6 @@ Self-directed software engineering practice focused on building end-to-end web s
 [![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
 
 </div>
 
